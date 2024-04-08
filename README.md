@@ -186,7 +186,10 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
 #### 3. Get All Categories
    Get all catgories of products present
    ```
-      ["men's clothing","jewelery","electronics","women's clothing"]
+      ["men's clothing",
+      "jewelery",
+      "electronics",
+      "women's clothing"]
    ```
 
 
