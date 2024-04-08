@@ -11,3 +11,6 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
 
 #### 5. Get All Categories
    Get all catgories of products present
+
+
+```python
