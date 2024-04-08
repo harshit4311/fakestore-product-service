@@ -1,7 +1,7 @@
 # fakestore-product-service
 Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore API.  Backend development for your applications.
 
-# Functions:
+## Functions:
 
 1. Get Products
    Get all Products
