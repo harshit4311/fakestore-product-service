@@ -5,15 +5,7 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
 
 #### 1. Get Products
    Get all Products present in the list
-
-#### 3. Get Product By Id
-   Get a particular product by its ID
-
-#### 5. Get All Categories
-   Get all catgories of products present
-
-
-```
+   ```
 [
     {
         "id": 1,
@@ -177,4 +169,21 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
     }
 ]
 ```
+
+
+
+#### 3. Get Product By Id
+   Get a particular product by its ID
+   Example : Product with id = 5
+   ```
+     {"id":5,"title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price":"695","category":"jewelery",
+      "description":"From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and       abundance, or outward for protection.",
+      "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"}
+```
+   
+
+#### 5. Get All Categories
+   Get all catgories of products present
+
 
