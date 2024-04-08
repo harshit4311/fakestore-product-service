@@ -172,7 +172,7 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
 
 
 
-#### 3. Get Product By Id
+#### 2. Get Product By Id
    Get a particular product by its ID
    Example : Product with id = 5
    ```
@@ -183,7 +183,10 @@ Learn to build an E-Commerce backend with Spring Boot, integrating the FakeStore
 ```
    
 
-#### 5. Get All Categories
+#### 3. Get All Categories
    Get all catgories of products present
+   ```
+      ["men's clothing","jewelery","electronics","women's clothing"]
+   ```
 
 
